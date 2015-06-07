@@ -1,0 +1,3 @@
+PKG ocamlbuild
+S lib
+B _build/**
