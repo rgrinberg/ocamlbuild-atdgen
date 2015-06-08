@@ -19,3 +19,5 @@ Then you must invoke ocamlbuild like this:
 ```
 $ ocamlbuild -use-ocamlfind -plugin-tag "package(ocamlbuild_atdgen)" target.native
 ```
+
+There's also a complete example project in `example/`
