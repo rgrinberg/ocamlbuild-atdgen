@@ -2,9 +2,9 @@ opam-version: "1.2"
 maintainer: "rudi.grinberg@gmail.com"
 authors: ["Daniel Weil" "Hezekiah M. Carty" "Rudi Grinberg"]
 
-homepage: "https://github.com/rgrinberg/ocamlbuild_atdgen"
-bug-reports: "https://github.com/rgrinberg/ocamlbuild_atdgen/issues"
-dev-repo: "https://github.com/rgrinberg/ocamlbuild_atdgen.git"
+homepage: "https://github.com/rgrinberg/ocamlbuild-atdgen"
+bug-reports: "https://github.com/rgrinberg/ocamlbuild-atdgen/issues"
+dev-repo: "https://github.com/rgrinberg/ocamlbuild-atdgen.git"
 
 build: [
   [make "all"]
